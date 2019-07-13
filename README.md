@@ -1,3 +1,3 @@
 # DrawSignature
  
-![](shots/image.jpeg)
+![](screens/image.jpeg)
